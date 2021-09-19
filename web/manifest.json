@@ -1,0 +1,10 @@
+{
+"name": "MoveCell",
+"short_name": "Aprendendo Device Orientation",
+
+"description": "WEB APP para aprender device orientation
+"display": "fullscreen",
+"start_url":"index.html",
+"scope": "/",
+"icons":"/"
+}
